@@ -1,0 +1,14 @@
+C:\Users\82106\source\repos\IF_ Study\obj\Debug\net8.0\IF_ Study.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\82106\source\repos\IF_ Study\obj\Debug\net8.0\IF_ Study.AssemblyInfoInputs.cache
+C:\Users\82106\source\repos\IF_ Study\obj\Debug\net8.0\IF_ Study.AssemblyInfo.cs
+C:\Users\82106\source\repos\IF_ Study\obj\Debug\net8.0\IF_ Study.csproj.CoreCompileInputs.cache
+C:\Users\82106\source\repos\IF_ Study\bin\Debug\net8.0\IF_ Study.exe
+C:\Users\82106\source\repos\IF_ Study\bin\Debug\net8.0\IF_ Study.deps.json
+C:\Users\82106\source\repos\IF_ Study\bin\Debug\net8.0\IF_ Study.runtimeconfig.json
+C:\Users\82106\source\repos\IF_ Study\bin\Debug\net8.0\IF_ Study.dll
+C:\Users\82106\source\repos\IF_ Study\bin\Debug\net8.0\IF_ Study.pdb
+C:\Users\82106\source\repos\IF_ Study\obj\Debug\net8.0\IF_ Study.dll
+C:\Users\82106\source\repos\IF_ Study\obj\Debug\net8.0\refint\IF_ Study.dll
+C:\Users\82106\source\repos\IF_ Study\obj\Debug\net8.0\IF_ Study.pdb
+C:\Users\82106\source\repos\IF_ Study\obj\Debug\net8.0\IF_ Study.genruntimeconfig.cache
+C:\Users\82106\source\repos\IF_ Study\obj\Debug\net8.0\ref\IF_ Study.dll
