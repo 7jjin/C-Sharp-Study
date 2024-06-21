@@ -1,0 +1,11 @@
+C:\Users\82106\source\repos\MyLibrary\bin\Debug\net8.0\MyLibrary.deps.json
+C:\Users\82106\source\repos\MyLibrary\bin\Debug\net8.0\MyLibrary.dll
+C:\Users\82106\source\repos\MyLibrary\bin\Debug\net8.0\MyLibrary.pdb
+C:\Users\82106\source\repos\MyLibrary\obj\Debug\net8.0\MyLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\82106\source\repos\MyLibrary\obj\Debug\net8.0\MyLibrary.AssemblyInfoInputs.cache
+C:\Users\82106\source\repos\MyLibrary\obj\Debug\net8.0\MyLibrary.AssemblyInfo.cs
+C:\Users\82106\source\repos\MyLibrary\obj\Debug\net8.0\MyLibrary.csproj.CoreCompileInputs.cache
+C:\Users\82106\source\repos\MyLibrary\obj\Debug\net8.0\MyLibrary.dll
+C:\Users\82106\source\repos\MyLibrary\obj\Debug\net8.0\refint\MyLibrary.dll
+C:\Users\82106\source\repos\MyLibrary\obj\Debug\net8.0\MyLibrary.pdb
+C:\Users\82106\source\repos\MyLibrary\obj\Debug\net8.0\ref\MyLibrary.dll
